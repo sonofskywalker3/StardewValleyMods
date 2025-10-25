@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 using System.Runtime.CompilerServices;
-
+using GenericModConfigMenu.Api;
 using GenericModConfigMenu.Framework.ModOption;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
